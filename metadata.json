@@ -1,0 +1,7 @@
+{
+  "name": "ria.ai image",
+  "description": "A premium, photo-only web application for creating, viewing, and scrolling through image collections with a focus on smooth, immersive experiences.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
